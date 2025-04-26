@@ -1,4 +1,3 @@
-
 import {
   logo,
   backend,
@@ -171,24 +170,24 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
-    name: "MD Mustaqeem",
+      "I thought it was impossible to make a website as beautiful as our product, but Abubakar abdirahman proved me wrong.",
+    name: "mohamed abdirisaaq",
     designation: "Ecommerce",
     company: "QuickMart",
     image: firstTestimonial,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
-    name: "Abdul Raheman",
+      "I've never met a web developer who truly cares about their clients' success like Abubakar abdirahman does.",
+    name: "Abdirahman Ali",
     designation: "Ecommerce Business",
     company: "justbuyz",
     image: secondTestimonial,
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
+      "After Abubakar abdirahman optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Omar yahye",
     designation: "CTO",
     company: "456 Enterprises",
     image: thirdTestimonial,
